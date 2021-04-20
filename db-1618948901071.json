@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "id": "0",
+      "productName": "Knitted Jumper",
+      "color": "Red",
+      "size": "Small",
+      "productAddDetailes": "Fitted",
+      "brand": "Polo Ralph",
+      "fabric": "Cotton",
+      "price": "169.99"
+    },
+    {
+      "id": "1",
+      "productName": "5-Pack T-Shirts",
+      "color": "Red,Blue,White,Grey,Yellow",
+      "size": "Large",
+      "productAddDetailes": "Slim Fit",
+      "brand": "Levis",
+      "fabric": "Cotton",
+      "price": "50"
+    },
+    {
+      "id": "2",
+      "productName": "Hoddie",
+      "color": "Black",
+      "size": "Medium",
+      "productAddDetailes": "Fitted",
+      "brand": "Nike",
+      "fabric": "Cotton",
+      "price": "45.99"
+    },
+    {
+      "id": "3",
+      "productName": "Hoddie",
+      "color": "White",
+      "size": "Small",
+      "productAddDetailes": "Baggy",
+      "brand": "Nike",
+      "fabric": "Cotton",
+      "price": "45.99"
+    },
+    {
+      "id": "4",
+      "productName": "Hoddie",
+      "color": "Blue",
+      "size": "Medium",
+      "productAddDetailes": "Fitted",
+      "brand": "Nike",
+      "fabric": "Cotton",
+      "price": "55"
+    },
+    {
+      "id": "5",
+      "productName": "FullSuit",
+      "color": "Grey",
+      "size": "Medium",
+      "productAddDetailes": "Formal",
+      "brand": "Prada",
+      "fabric": "Linen",
+      "price": "450.5"
+    },
+    {
+      "id": "6",
+      "productName": "Jeans",
+      "color": "Blue",
+      "size": "Small-34",
+      "productAddDetailes": "Stretch",
+      "brand": "Pull&Bear",
+      "fabric": "Jeans",
+      "price": "15"
+    },
+    {
+      "id": "7",
+      "productName": "Polo-Shirt",
+      "color": "Red",
+      "size": "Large",
+      "productAddDetailes": "Fitted",
+      "brand": "PoloRalph",
+      "fabric": "Cotton",
+      "price": "92.99"
+    },
+    {
+      "id": "8",
+      "productName": "Polo-Shirt",
+      "color": "White",
+      "size": "Medium",
+      "productAddDetailes": "Fitted",
+      "brand": "Pull&Bear",
+      "fabric": "Cotton",
+      "price": "13.99"
+    },
+    {
+      "id": "9",
+      "productName": "Shirts",
+      "color": "Pink",
+      "size": "Large",
+      "productAddDetailes": "Fitted",
+      "brand": "PoloRalph",
+      "fabric": "Linen",
+      "price": "159.99"
+    },
+    {
+      "id": "10",
+      "productName": "Shirt",
+      "color": "White",
+      "size": "Medium",
+      "productAddDetailes": "Fitted",
+      "brand": "TommyHilfiger",
+      "fabric": "Linen",
+      "price": "78"
+    },
+    {
+      "id": "11",
+      "productName": "Belt",
+      "color": "Brown",
+      "size": "Small",
+      "productAddDetailes": "Leather",
+      "brand": "Guess",
+      "fabric": "Leather",
+      "price": "89.99"
+    }
+  ]
+}
